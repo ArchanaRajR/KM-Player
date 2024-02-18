@@ -1,0 +1,287 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Nanum+Gothic:wght@700&display=swap');
+*{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.kmplayer{
+    font-size: 35px;
+    line-height: 1.2;
+    padding-left: 50px;
+}
+.kmplayer span{
+    font-size: 30px;
+}
+header{
+    width: 100%;
+    height: 60px;
+    background-color: #5b449b;
+    position: fixed;
+}
+.nav_icon{
+    width: 156px;
+    height: 26px;
+}
+.nav_content{
+    color:#cecaff ;
+    font-size: 16px;
+    padding: 0px 13px;
+    font-family: 'Nanum Gothic', sans-serif;
+    display: inline-flex;
+    flex-direction: column-reverse;
+    align-items: flex-start;
+    text-decoration: none;
+}
+.nav1{
+    color:white ;
+}
+.buyacoffee{
+    margin-top: 13px;
+}
+.nav_bar{
+    margin: 0px 15px;
+    padding: 0px 0px;
+    display: flex;
+    justify-content:space-around ;
+}
+.love{
+    width:143.5px;
+    height: 25px;
+    background-color: #5b449b;
+    border-radius: 6px;
+    border-color: white;
+    font-weight: 700;
+    color: white;
+    border: 1px solid #bdb5d7;
+
+}
+.nav{
+    display: flex;
+    align-items: flex-end;
+}
+.language{
+    width: 90px;
+    height: 28px;
+    background-color: #5b449b;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-radius: 6px;
+    border: 1px solid #bdb5d7;
+    margin-left: 9px;
+}.main1{
+    background-image: url(./main\ background.png);
+    height: 470px;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.windows{
+    padding: 67px;
+}
+main{
+    height: 6607.05px;
+    padding: 20px 43px 0px;
+    display: grid;
+    justify-content: center;
+    align-content:flex-start;
+}
+.main2{
+    background-image: url(./Main_KMPlayer_VideoPlayerforAndroidIOS_FreeDownload.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 858px;
+    height: 704.13px;
+    color: #cecaff;
+}
+.main20{
+    width: 778px;
+    background-color: #050315;
+    color: #cecaff;
+    padding: 0px 40px 40px;
+}
+.learnmore{
+    color: #cecaff;
+    width: 137.32px;
+    height: 30.6px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #241c3e4d;
+    border: 1px solid #bdb5d7;
+    text-decoration: none;
+} 
+.baseline{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding-top: 15px;
+} 
+.playstore{
+    width: 266px;
+    height: 36px;
+}
+
+.main3{
+    background-image: url(./home_vip.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 858px;
+    height: 704.13px;
+    color: #cecaff;
+    margin-top: 20px;
+}
+.playstor{
+    width: 129.6px;
+    height: 41.6px;
+}
+.main30{
+    width: 778px;
+    background-color: #000000;
+    color: #cecaff;
+    padding: 0px 40px 40px;
+}
+.main4{
+    background-image: url("./kmplayer3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 858px;
+    height: 704.13px;
+    color: #ffffff;
+    margin-top: 20px;
+}
+.main40{
+    width: 778px;
+    background-color: #194dbe;
+    color: #ffffff;
+    padding: 0px 40px 40px;
+
+}
+.main5{
+    background-image: url("./phone.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 858px;
+    height: 704.13px;
+    color: #000000;
+    margin-top: 20px;
+}
+.main50{
+    width: 778px;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 0px 40px 40px;
+
+}
+.onea{
+    color: #5b449b;
+}
+.main6{
+    background-image: url("./round.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 858px;
+    height: 704.13px;
+    color: #cecaff;
+    margin-top: 20px;
+}
+.main60{
+    width: 778px;
+    background-color: #242424;
+    color: #cecaff;
+    padding: 0px 40px 40px;
+
+}
+.main7{
+    background-image: url("./muscle.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 858px;
+    height: 704.13px;
+    color: #cecaff;
+    margin-top: 20px;
+}
+.main70{
+    width: 778px;
+    background-color: #363636;
+    color: #cecaff;
+    padding: 0px 40px 40px;
+
+}
+.features{
+    font-size: 16px;
+    margin-top: 4px;  
+}
+.cup{
+    width: 64px;
+    height: 64px;
+    background-color: #ff8137;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 35rem;
+    display: flex;
+    position: fixed;
+    right: 18px;
+    bottom: 18px;
+}
+.cup img{
+    width: 35px;
+    height: 35px;
+}
+/* footer*/
+
+.footeritems{
+    width: 1120px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 12rem;
+
+}
+.footer_heading{
+    font-size: 20px;
+    margin: 0px 0px 15px;
+    color: #464646;
+}
+.footer_elements{
+    font-size: 16px;
+    color: #636363;
+    list-style-type: none;
+    margin-top: 9px;
+}
+.lastfooter{
+    width: 1120px;
+    margin-left: 12rem;
+}
+.kmplo{
+    width: 156px;
+    height: 26px;
+    margin-top: 20px;
+}
+.heartie{
+    color: red;
+}
+.credit{
+    font-size: 14px;
+    color: #636363;
+    list-style-type: none;
+    margin-top: 9px;
+}
+/*    ------------------- ....responsive........-----------------    */
+
+@media screen and (max-width: 700px){
+nav img{
+    
+}}
